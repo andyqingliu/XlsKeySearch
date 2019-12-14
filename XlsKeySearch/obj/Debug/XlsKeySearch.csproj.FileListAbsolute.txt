@@ -15,3 +15,6 @@ G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.OpenXmlFormats.dll
 G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\ICSharpCode.SharpZipLib.xml
 G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\log4net.dll
 G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\log4net.xml
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\XlsKeySearch.exe.config
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.exe
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.pdb
