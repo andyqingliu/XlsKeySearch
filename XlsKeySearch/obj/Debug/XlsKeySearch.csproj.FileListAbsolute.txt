@@ -1,0 +1,17 @@
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\XlsKeySearch.exe.config
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\XlsKeySearch.exe
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\XlsKeySearch.pdb
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.csprojResolveAssemblyReference.cache
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.Form1.resources
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.Properties.Resources.resources
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.csproj.GenerateResource.Cache
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.exe
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.pdb
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.dll
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.OOXML.dll
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.OpenXml4Net.dll
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\ICSharpCode.SharpZipLib.xml
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\log4net.dll
+G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\log4net.xml
