@@ -18,3 +18,17 @@ G:\Work\FBTestPrj\XlsKeySearch\XlsKeySearch\bin\Debug\log4net.xml
 G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\XlsKeySearch.exe.config
 G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.exe
 G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.pdb
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\XlsKeySearch.exe
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\XlsKeySearch.pdb
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\log4net.dll
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.dll
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.OOXML.dll
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.OpenXml4Net.dll
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\NPOI.OpenXmlFormats.dll
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\ICSharpCode.SharpZipLib.xml
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\bin\Debug\log4net.xml
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.csprojResolveAssemblyReference.cache
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.Form1.resources
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.Properties.Resources.resources
+G:\Work\GitPrj\XlsKeySearch\XlsKeySearch\obj\Debug\XlsKeySearch.csproj.GenerateResource.Cache
