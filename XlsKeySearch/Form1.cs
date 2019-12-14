@@ -85,7 +85,7 @@ namespace XlsKeySearch
                     Debug.Log("{0}\n{1}\n{2}", mulKeyTitle, mulKeyTemp, mulKeyStr);
                     this.textBox3.Text = mulKeyTitle + "\n" + mulKeyTemp + "\n" + mulKeyStr;
                 }
-                MessageBox.Show("Generate success ! Enjoy it ! LJH 同学！");
+                MessageBox.Show("Generate success ! Enjoy it !");
             }
             else
             {
