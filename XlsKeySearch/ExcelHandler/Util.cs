@@ -107,7 +107,12 @@ namespace XlsKeySearch.ExcelHandler
                                 {
                                     break;
                                 }
-                                string cellValue = row.GetCell(j).ToString();
+                                ICell iCell = row.GetCell(j);
+                                if (iCell == null)
+                                {
+                                    continue;
+                                }
+                                string cellValue = iCell.ToString();
                                 if (string.IsNullOrEmpty(cellValue))
                                 {
                                     continue;
@@ -168,8 +173,15 @@ namespace XlsKeySearch.ExcelHandler
                     if (row != null)
                     {
                         //只取前两列
-                        string cellKey = row.GetCell(0).ToString();
-                        string cellValue = row.GetCell(1).ToString();
+                        ICell i0Cell = row.GetCell(0);
+                        ICell i1Cell = row.GetCell(1);
+                        if (i0Cell == null || i1Cell == null)
+                        {
+                            Debug.Warn("key or value is null,please check the keyvalue");
+                            continue;
+                        }
+                        string cellKey = i0Cell.ToString();
+                        string cellValue = i1Cell.ToString();
                         KeyContentObj kcObj = new KeyContentObj(cellKey, cellValue);
                         if (!string.IsNullOrEmpty(cellKey))
                         {
